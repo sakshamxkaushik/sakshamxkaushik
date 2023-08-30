@@ -1,4 +1,4 @@
-<h3 align="center">A passionate developer from India</h3>
+
 
 <p align="left"> <a href="https://twitter.com/sakshamxkaushik" target="blank"><img src="https://img.shields.io/twitter/follow/sakshamxkaushik?logo=twitter&style=for-the-badge" alt="sakshamxkaushik" /></a> </p>
 
