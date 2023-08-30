@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/sakshamxkaushik" target="blank"><img src="https://img.shields.io/twitter/follow/sakshamxkaushik?logo=twitter&style=for-the-badge" alt="sakshamxkaushik" /></a> </p>
 
-- 🌱 I’m currently in Final Year of B.E. focused in Computer Science Engineering **DSA, CNS, DBMS, OS, OPPs, Machine learning**
+- 🌱 I’m currently in Final Year of B.E. focused in Computer Science Engineering
 
 - ⊹ I'm currently building a small home server project **HomeLab**
 
