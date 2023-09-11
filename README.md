@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently in Final Year of B.E. focused in Computer Science Engineering<br> I'm currently building a small home server project HomeLab<br>Google Developer Profile https://www.cloudskillsboost.google/public_profiles/6d5b8041-2b61-472f-8e79-e37c0f6a8390<br>📫 How to reach me sakshamkaushik3047@gmail.com<br>📄 Know about my experiences https://docs.google.com/document/d/1-f4Vcdl80BdpwslTiZLUxy6XyeR8AhszslyxArxwHjc/edit?usp=sharing<br><br>⚡ Fun fact I'm a state level Athlete + Swimmer 🤿🏊🏻‍♂️
+Final Year Engineering Student, currently studying Computer Science Engineering<br> I'm currently building a small home server project HomeLab<br>Google Developer Profile https://www.cloudskillsboost.google/public_profiles/6d5b8041-2b61-472f-8e79-e37c0f6a8390<br>📫 How to reach me sakshamkaushik3047@gmail.com<br>📄 Know about my experiences https://docs.google.com/document/d/1-f4Vcdl80BdpwslTiZLUxy6XyeR8AhszslyxArxwHjc/edit?usp=sharing<br><br>⚡ Fun fact I'm a state level Athlete + Swimmer 🤿🏊🏻‍♂️
 
 
 ## 🌐 Socials:
